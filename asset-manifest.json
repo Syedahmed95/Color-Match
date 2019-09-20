@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Color-Match/./static/css/main.a11ac1e0.chunk.css",
+    "main.js": "/Color-Match/./static/js/main.e005baf1.chunk.js",
+    "main.js.map": "/Color-Match/./static/js/main.e005baf1.chunk.js.map",
+    "runtime~main.js": "/Color-Match/./static/js/runtime~main.2ef3da30.js",
+    "runtime~main.js.map": "/Color-Match/./static/js/runtime~main.2ef3da30.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Color-Match/./static/css/2.266e55a5.chunk.css",
+    "static/js/2.28d6b681.chunk.js": "/Color-Match/./static/js/2.28d6b681.chunk.js",
+    "static/js/2.28d6b681.chunk.js.map": "/Color-Match/./static/js/2.28d6b681.chunk.js.map",
+    "index.html": "/Color-Match/./index.html",
+    "precache-manifest.20ac9eac7eb1070ab0e9e82f0a1648f9.js": "/Color-Match/./precache-manifest.20ac9eac7eb1070ab0e9e82f0a1648f9.js",
+    "service-worker.js": "/Color-Match/./service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Color-Match/./static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.a11ac1e0.chunk.css.map": "/Color-Match/./static/css/main.a11ac1e0.chunk.css.map"
+  }
+}
